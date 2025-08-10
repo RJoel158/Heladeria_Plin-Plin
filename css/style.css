@@ -122,12 +122,12 @@ section img {
   height: 42px;
   border-radius: 8px;
   background: rgba(255,255,255,0.12);
-  color: #fff;
+  color: #000000;
   text-decoration: none;
-  font-weight: 700;
+  font-weight: bold;
   transition: transform .18s ease, box-shadow .18s ease, background .18s ease;
   box-shadow: 0 6px 16px rgba(0,0,0,0.06);
-  font-size: 18px;
+  font-size: 12px;
 }
 
 /* icon color accents (ajusta según paleta) */
